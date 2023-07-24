@@ -1,0 +1,14 @@
+body {
+    margin: 5em;
+}
+
+.lesson-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lesson-list li {
+    padding: 0.5em 0;
+    list-style-type: none;
+}

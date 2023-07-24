@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+  
+.container {
+    max-width: 90vw;
+    margin: 5em 10em 2em 10em;
+}
+
+img {
+    width: 20vw;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.blue {
+    color: rgb(72, 155, 224);
+}
+
+.green {
+    color: rgb(48, 151, 48);
+}
+ 
