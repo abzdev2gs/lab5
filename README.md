@@ -14,3 +14,9 @@ Interesting exercise
 It took me 5hrs to complete.
 The challenging part was identifying scopes, prototypical inheritance and closures.
 The fun part was I learnt a lot about tricky javascript concepts
+
+# Lab 7: 
+This was an exiting exercise, specifically after completing it and seeing the animations work.
+It took me 6hrs to complete 
+The challenging part was reading throught he boilerplate code provided and understanding what it was doing
+The fun part was I learnt animations, css, and javascript
