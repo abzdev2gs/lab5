@@ -14,7 +14,7 @@ $(function(){
         {
             $(CIRCLE_HOLDER).remove();
         }
-
+ 
         let width = parseInt($("#width").val());
         let growth = parseInt($("#grw").val());
         let interval = parseInt($("#interval").val());
