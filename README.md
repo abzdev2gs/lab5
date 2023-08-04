@@ -20,3 +20,11 @@ This was an exiting exercise, specifically after completing it and seeing the an
 It took me 6hrs to complete 
 The challenging part was reading throught he boilerplate code provided and understanding what it was doing
 The fun part was I learnt animations, css, and javascript
+
+# Lab 8:
+This is a fun and challenging exercise.
+I learnt a lot about Jquery and DOM events
+I learnt how to make a very simple and fun games using html, css, and javascript
+
+It took me 8hrs to complete the assignment
+The difficult part was understanding the boiler plat code provided.
