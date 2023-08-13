@@ -33,3 +33,7 @@ The difficult part was understanding the boiler plat code provided.
 This was a great and indepth lesson in jQuery and how it can be used to do tasks easily that vanilla javascript
 This took me 4 hours to do
 I didn't complete everytask because it was too long and we had Lab8 too which took me a while to complete
+
+# Lab 10:
+This is a great exercise to learn jQuery events.
+It took me 2hrs to complete the task
